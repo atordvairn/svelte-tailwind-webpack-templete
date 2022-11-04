@@ -1,0 +1,13 @@
+/node_modules/
+/public/build/*
+/public/global.css
+/package-lock.json
+/yarn.lock
+/radata/*
+/public/service.js*
+/pnpm-lock.yaml
+/public/*.br
+/public/*.gz
+/public/*.*.js
+/public/*.woff
+/dist/*

@@ -1,0 +1,4 @@
+# builds
+/public/build/*
+/public/js/*
+/public/service.js
