@@ -1,6 +1,6 @@
 {
-  "name": "retrounhash",
-  "version": "0.1.4-alpha",
+  "name": "example",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "build": "cross-env NODE_ENV=production webpack",
@@ -13,9 +13,6 @@
     "@babel/core": "^7.19.3",
     "@babel/preset-env": "^7.19.4",
     "@fullhuman/postcss-purgecss": "5.0.0",
-    "@svicons/boxicons-logos": "^0.1.11",
-    "@svicons/boxicons-regular": "^0.1.11",
-    "@svicons/boxicons-solid": "^0.1.11",
     "autoprefixer": "^10.4.12",
     "babel-loader": "^8.2.5",
     "brotli-webpack-plugin": "^1.1.0",
